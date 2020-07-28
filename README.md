@@ -1,2 +1,2 @@
 # yaltt
-Yet another loading test tool
+Yet another load testing tool
